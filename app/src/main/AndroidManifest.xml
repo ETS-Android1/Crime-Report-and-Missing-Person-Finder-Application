@@ -10,7 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CRMP">
         <activity
+<<<<<<< HEAD
             android:name=".CrimeAround"
+=======
+<<<<<<< HEAD
+            android:name=".MissingPeople"
+=======
+            android:name=".SignInComplaintActivity"
+>>>>>>> 0bad4eab890c5cc3dbd752f4b389b5e9a4288323
+>>>>>>> 822e77b10460e3a1e4b89cc62594ea58f96d68b7
             android:exported="true" />
         <activity
             android:name=".SignUpActivity"

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/design_default_color_secondary_variant"
     tools:context=".MainActivity">
 
     <Button
@@ -32,7 +33,11 @@
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:layout_marginStart="116dp"
+=======
+        android:layout_marginStart="144dp"
+>>>>>>> 822e77b10460e3a1e4b89cc62594ea58f96d68b7
         android:layout_marginTop="368dp"
         android:text="Missing People"
         app:layout_constraintStart_toStartOf="parent"
