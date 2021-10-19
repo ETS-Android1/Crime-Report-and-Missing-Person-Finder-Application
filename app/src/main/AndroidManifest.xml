@@ -9,15 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CRMP">
-
+        <activity
+            android:name=".PersonMissing"
+            android:exported="true" />
         <activity
             android:name=".SignInComplaintActivity"
             android:exported="true" />
         <activity
             android:name=".ComplaintStatusActivity"
             android:exported="true" />
-
-
         <activity
             android:name=".SignUpActivity"
             android:exported="true" />
