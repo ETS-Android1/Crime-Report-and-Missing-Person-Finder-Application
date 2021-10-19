@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CRMP">
         <activity
+            android:name=".MissingPeople"
+            android:exported="true" />
+        <activity
             android:name=".SignUpActivity"
             android:exported="true" />
         <activity
