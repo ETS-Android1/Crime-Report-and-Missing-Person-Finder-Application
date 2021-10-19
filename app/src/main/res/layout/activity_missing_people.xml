@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/design_default_color_secondary_variant"
+    tools:context=".MissingPeople">
+
+    <EditText
+        android:id="@+id/editTextNumber"
+        android:layout_width="339dp"
+        android:layout_height="46dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:hint="Zipcode"
+        android:inputType="number"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.222"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <SearchView
+        android:layout_width="35dp"
+        android:layout_height="46dp"
+        android:background="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.957"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:text="Case 1   "
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="194dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:text="Case 2"
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="429dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="308dp"
+        android:layout_height="43dp"
+        android:text="after entering the zipcodes it displays the surroundings cases"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="83dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="227dp"
+        tools:layout_editor_absoluteY="194dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="227dp"
+        tools:layout_editor_absoluteY="429dp"
+        tools:srcCompat="@tools:sample/avatars" />
+</androidx.constraintlayout.widget.ConstraintLayout>
