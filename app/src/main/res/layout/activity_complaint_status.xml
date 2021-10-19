@@ -34,8 +34,22 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="64dp"
-        tools:layout_editor_absoluteY="224dp" />
+        android:layout_width="378dp"
+        android:layout_height="146dp"
+        android:layout_marginStart="16dp"
+        android:text="We will obtain the status by checking with name, city, subject, complaint details, and status after clicking on complaint status."
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="196dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="378dp"
+        android:layout_height="265dp"
+        android:layout_marginStart="16dp"
+        android:text="We'll include a more text view button that, when clicked, displays the id, name, subject, complaint, address, city, pincode, phone, and email, as well as status options like submitted, viewed, processing, and finished. We'll also include update and cancel buttons on the same screen."
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="415dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
