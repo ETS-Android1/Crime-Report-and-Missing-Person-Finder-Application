@@ -23,4 +23,5 @@ public class LoginActivity extends AppCompatActivity {
         Intent intent = new Intent(this, SignInComplaintActivity.class);
         startActivity(intent);
     }
+
 }
