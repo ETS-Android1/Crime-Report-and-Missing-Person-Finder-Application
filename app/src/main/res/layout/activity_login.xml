@@ -47,6 +47,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="156dp"
         android:layout_marginTop="528dp"
+        android:onClick="SignInOnClick"
         android:text="Sign In"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

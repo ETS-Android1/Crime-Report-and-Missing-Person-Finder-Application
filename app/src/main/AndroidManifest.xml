@@ -10,7 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CRMP">
         <activity
+<<<<<<< HEAD
             android:name=".MissingPeople"
+=======
+            android:name=".SignInComplaintActivity"
+>>>>>>> 0bad4eab890c5cc3dbd752f4b389b5e9a4288323
             android:exported="true" />
         <activity
             android:name=".SignUpActivity"
