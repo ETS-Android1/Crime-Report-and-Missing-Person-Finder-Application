@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CRMP">
         <activity
+            android:name=".ComplaintStatusActivity"
+            android:exported="true" />
+        <activity
             android:name=".SignInComplaintActivity"
             android:exported="true" />
         <activity
