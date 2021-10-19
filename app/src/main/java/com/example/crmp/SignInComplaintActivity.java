@@ -19,4 +19,8 @@ public class SignInComplaintActivity extends AppCompatActivity {
         Intent intent = new Intent(this, ComplaintStatusActivity.class);
         startActivity(intent);
     }
+    public void personMissingOnClick(View v) {
+        Intent intent = new Intent(this, PersonMissing.class);
+        startActivity(intent);
+    }
 }
