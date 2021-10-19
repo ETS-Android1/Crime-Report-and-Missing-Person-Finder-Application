@@ -4,14 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/design_default_color_secondary_variant"
     tools:context=".MainActivity">
 
     <Button
         android:id="@+id/loginBTN"
         android:layout_width="124dp"
         android:layout_height="49dp"
-        android:layout_marginStart="176dp"
-        android:layout_marginTop="520dp"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="496dp"
         android:onClick="loginOnClick"
         android:text="login"
         app:layout_constraintStart_toStartOf="parent"
@@ -21,8 +22,9 @@
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="144dp"
-        android:layout_marginTop="224dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="232dp"
+        android:onClick="crimearoundOnClick"
         android:text="Crime Around You"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -31,7 +33,11 @@
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="156dp"
+<<<<<<< HEAD
+        android:layout_marginStart="116dp"
+=======
+        android:layout_marginStart="144dp"
+>>>>>>> 822e77b10460e3a1e4b89cc62594ea58f96d68b7
         android:layout_marginTop="368dp"
         android:text="Missing People"
         app:layout_constraintStart_toStartOf="parent"
