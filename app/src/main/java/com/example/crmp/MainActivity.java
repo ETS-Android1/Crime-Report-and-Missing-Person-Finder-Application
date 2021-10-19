@@ -19,4 +19,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
     }
+    public void crimearoundOnClick(View c) {
+        Intent intent = new Intent(this, CrimeAround.class);
+        startActivity(intent);
+    }
 }
