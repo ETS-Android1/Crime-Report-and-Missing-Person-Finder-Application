@@ -19,4 +19,9 @@ public class SignInComplaintActivity extends AppCompatActivity {
         Intent intent = new Intent(this, ComplaintStatusActivity.class);
         startActivity(intent);
     }
+
+    public void crimeOnClick(View c) {
+        Intent intent = new Intent(this,CrimeActivity.class);
+        startActivity(intent);
+    }
 }
