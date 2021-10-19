@@ -23,4 +23,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, CrimeAround.class);
         startActivity(intent);
     }
+    public void missingPeopleOnClick(View c) {
+        Intent intent = new Intent(this,MissingPeople.class);
+        startActivity(intent);
+    }
+
 }
