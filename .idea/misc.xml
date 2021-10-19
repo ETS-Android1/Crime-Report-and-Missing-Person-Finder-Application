@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
         <entry key="..\:/Users/S542311/Desktop/Android Project/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/activity_missing_people.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/S542311/Desktop/Android Project/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/activity_person_missing.xml" value="0.22" />
+=======
+        <entry key="..\:/Users/S541909/Desktop/app/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/activity_crime_around.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/S541909/Desktop/app/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/S541909/Desktop/app/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/activity_missing_people.xml" value="0.16666666666666666" />
+>>>>>>> f1125741b888fbeb690ce8d544f190c7cbfa891c
         <entry key="..\:/Users/S542423/CRMP/app/src/main/res/layout/activity_complaint_status.xml" value="0.264" />
         <entry key="..\:/Users/S542423/CRMP/app/src/main/res/layout/activity_crime_around.xml" value="0.152" />
         <entry key="..\:/Users/S542423/CRMP/app/src/main/res/layout/activity_login.xml" value="0.176" />

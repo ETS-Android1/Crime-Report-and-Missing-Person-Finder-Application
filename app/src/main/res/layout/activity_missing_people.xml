@@ -37,25 +37,31 @@
         android:id="@+id/textView3"
         android:layout_width="300dp"
         android:layout_height="200dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginTop="184dp"
         android:text="Case 1   "
-        tools:layout_editor_absoluteX="56dp"
-        tools:layout_editor_absoluteY="194dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="300dp"
         android:layout_height="200dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginTop="416dp"
         android:text="Case 2"
-        tools:layout_editor_absoluteX="56dp"
-        tools:layout_editor_absoluteY="429dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView5"
         android:layout_width="308dp"
         android:layout_height="43dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="96dp"
         android:text="after entering the zipcodes it displays the surroundings cases"
-        tools:layout_editor_absoluteX="54dp"
-        tools:layout_editor_absoluteY="83dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView"

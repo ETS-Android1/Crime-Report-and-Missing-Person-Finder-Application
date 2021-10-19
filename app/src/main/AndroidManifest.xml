@@ -10,7 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CRMP">
         <activity
+<<<<<<< HEAD
             android:name=".PersonMissing"
+=======
+            android:name=".MissingPeople"
+>>>>>>> f1125741b888fbeb690ce8d544f190c7cbfa891c
             android:exported="true" />
         <activity
             android:name=".SignInComplaintActivity"
@@ -18,6 +22,14 @@
         <activity
             android:name=".ComplaintStatusActivity"
             android:exported="true" />
+<<<<<<< HEAD
+=======
+        <activity
+            android:name=".CrimeAround"
+            android:exported="true" />
+
+
+>>>>>>> f1125741b888fbeb690ce8d544f190c7cbfa891c
         <activity
             android:name=".SignUpActivity"
             android:exported="true" />
