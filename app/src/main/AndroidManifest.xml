@@ -9,11 +9,20 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CRMP">
+
         <activity
+
             android:name=".CrimeActivity"
             android:exported="true" />
         <activity
+
             android:name=".MissingPeople"
+
+            android:exported="true" />
+        <activity
+
+            android:name=".PersonMissing"
+
             android:exported="true" />
         <activity
             android:name=".SignInComplaintActivity"
@@ -24,6 +33,7 @@
         <activity
             android:name=".CrimeAround"
             android:exported="true" />
+
         <activity
             android:name=".SignUpActivity"
             android:exported="true" />

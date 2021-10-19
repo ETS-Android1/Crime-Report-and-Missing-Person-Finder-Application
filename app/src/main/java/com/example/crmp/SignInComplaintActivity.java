@@ -21,7 +21,12 @@ public class SignInComplaintActivity extends AppCompatActivity {
     }
 
     public void crimeOnClick(View c) {
-        Intent intent = new Intent(this,CrimeActivity.class);
+        Intent intent = new Intent(this, CrimeActivity.class);
+        startActivity(intent);
+    }
+    public void personMissingOnClick(View v) {
+        Intent intent = new Intent(this, PersonMissing.class);
+
         startActivity(intent);
     }
 }
