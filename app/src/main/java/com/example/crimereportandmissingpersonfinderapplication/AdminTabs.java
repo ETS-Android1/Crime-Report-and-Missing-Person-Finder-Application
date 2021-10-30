@@ -16,7 +16,7 @@ public class AdminTabs extends Fragment{
 
 	ActionBar ab;
 	ViewPager vp;
-	com.policesystem.Admintabspageradapt tabsad;
+	com.example.crimereportandmissingpersonfinderapplication.Admintabspageradapt tabsad;
 
     public TabLayout tabLayout;
     public ViewPager viewPager;
@@ -33,7 +33,7 @@ public class AdminTabs extends Fragment{
         {
             ab.addTab(ab.newTab().setText(tab_name).setTabListener(this));
         }*/
-        viewPager.setAdapter(new com.policesystem.Admintabspageradapt(getChildFragmentManager()));
+        viewPager.setAdapter(new com.example.crimereportandmissingpersonfinderapplication.Admintabspageradapt(getChildFragmentManager()));
         tabLayout.post(new Runnable() {
             @Override
             public void run() {
