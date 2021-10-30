@@ -15,6 +15,9 @@ public class Crime_Pincode_Adapter extends ArrayAdapter<String>{
 
 	String[] id,street,details,img,status;
 	Context con;
+
+
+
 	public Crime_Pincode_Adapter(Context context, String[] id, String[] street, String[] details, String[] img, String[] status) {
 		super(context, R.layout.crime_pincode_listitem,id);
 		
