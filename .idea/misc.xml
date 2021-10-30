@@ -13,6 +13,10 @@
         <entry key="..\:/Users/S542311/Desktop/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/activity_tabs.xml" value="0.1" />
         <entry key="..\:/Users/S542311/Desktop/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/complaint.xml" value="0.1" />
         <entry key="..\:/Users/S542311/Desktop/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/complaint_status.xml" value="0.1" />
+        <entry key="..\:/Users/S542311/Desktop/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/complaint_status_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/S542311/Desktop/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/complaint_status_dialog_admin.xml" value="0.1" />
+        <entry key="..\:/Users/S542311/Desktop/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/complaint_status_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/S542311/Desktop/Crime-Report-and-Missing-Person-Finder-Application/app/src/main/res/layout/crime_status_list_item.xml" value="0.1" />
       </map>
     </option>
   </component>
