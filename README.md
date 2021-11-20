@@ -28,41 +28,63 @@ It can support OS ranging from Android 11.0(R) to Android 5.0(lollipop)
 <img src="/images/Dashboard.png" width="200" height="400" />
 
 ## (ii)	CRIMES AROUND YOU 
+<p float="left">
 <img src="/images/Zipcode.png" width="200" height="400" />
 <img src="/images/crimeslist.png" width="200" height="400" />
+</p>
 
 ## (iii) MISSING PEOPLE
+<p float="left">
 <img src="/images/missinglist.png" width="200" height="400" />
 <img src="/images/mp.png" width="200" height="400" />
+</p>
 
 ### (iv) LOGIN (User)
+<p float="left">
 <img src="/images/userlog.png" width="200" height="400" />
 <img src="/images/userreg.png" width="200" height="400" />
 <img src="/images/reg1.png" width="200" height="400" />
+</p>
+<p float="left">
 <img src="/images/signinpage.png" width="200" height="400" />
 <img src="/images/loc.png" width="200" height="400" />
 <img src="/images/1.png" width="200" height="400" />
+</p>
+<p float="left">
 <img src="/images/2.png" width="200" height="400" />
 <img src="/images/3.png" width="200" height="400" />
 <img src="/images/4.png" width="200" height="400" />
+</p>
+<p float="left">
 <img src="/images/5.png" width="200" height="400" />
 <img src="/images/6.png" width="200" height="400" />
 <img src="/images/7.png" width="200" height="400" />
+</p>
+<p float="left">
 <img src="/images/8.png" width="200" height="400" />
 <img src="/images/9.png" width="200" height="400" />
 <img src="/images/10.png" width="200" height="400" />
+</p>
+<p float="left">
 <img src="/images/11.png" width="200" height="400" />
 <img src="/images/12.png" width="200" height="400" />
+</p>
 
 ### (v)	LOGIN (Admin) 
+<p float="left">
 <img src="/images/13.png" width="200" height="400" />
 <img src="/images/14.png" width="200" height="400" />
 <img src="/images/15.png" width="200" height="400" />
+</p>
+<p float="left">
 <img src="/images/16.png" width="200" height="400" />
 <img src="/images/17.png" width="200" height="400" />
 <img src="/images/18.png" width="200" height="400" />
+</p>
+<p float="left">
 <img src="/images/19.png" width="200" height="400" />
 <img src="/images/20.png" width="200" height="400" />
+</p>
 
 ## Sequence Information:
 
