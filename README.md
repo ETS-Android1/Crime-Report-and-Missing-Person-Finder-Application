@@ -59,3 +59,16 @@ The purpose of our application is to find the different crimes and people missin
 ![process](/images/18.png)
 ![processing](/images/19.png)
 ![listofmissingpersons](/images/20.png)
+
+## APK:
+### Supported Devices:
+It can support OS ranging from Android 11.0(R) to Android 5.0(lollipop)
+
+## Sequence Information:
+
+### ER Diagram
+![ER](/images/21.png)
+
+## Class Diagram
+![Class](/images/22.png)
+
