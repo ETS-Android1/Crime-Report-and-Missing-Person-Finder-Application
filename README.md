@@ -20,8 +20,20 @@ The purpose of our application is to find the different crimes and people missin
 •	And admin can update the status of the complaint which is verified or still in progress.
 
 ## Our app screens
-![images\Dashboard.png]
+![Dashboard](images\Dashboard.png)
 
 ## (ii)	CRIMES AROUND YOU 
-![images\Zipcode.png]
+![Zipcode](images\Zipcode.png)
+![CrimeList](images\crimeslist.png)
+
+## (iii) MISSING PEOPLE
+![Missing](images\missinglist.png)
+![MissingList](images\mp.png)
+
+### (iv) LOGIN (User)
+![UserLogin](images\userlog.png)
+![UserReg](images\userreg.png)
+![UserRegForm](images\reg1.png)
+![SignPage](images\signinpage.png)
+![Access](images\loc.png)
 
