@@ -56,4 +56,6 @@ The purpose of our application is to find the different crimes and people missin
 ![CrimeList](/images/15.png)
 ![CrimeDet](/images/16.png)
 ![Form](/images/17.png)
-
+![process](/images/18.png)
+![processing](/images/19.png)
+![listofmissingpersons](/images/20.png)
