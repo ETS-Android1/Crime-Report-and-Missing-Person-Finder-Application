@@ -17,23 +17,23 @@ The purpose of our application is to find the different crimes and people missin
 
 ### (v)	LOGIN (Admin) 
 •	By giving the email and password the admin can register into the admin pages their admin can view all complaints, crimes, missing people options by pressing them individually each one consists of lists of views according to the options.
-•	And admin can update the status of the complaint which is verified or still in progress.
+•	And admin can update the status of the complaint which is verified or/ still /in progress.
 
 ## Our app screens
-![Dashboard](images\Dashboard.png)
+![Dashboard](/images/Dashboard.png)
 
 ## (ii)	CRIMES AROUND YOU 
-![Zipcode](images\Zipcode.png)
-![CrimeList](images\crimeslist.png)
+![Zipcode](/images/Zipcode.png)
+![CrimeList](/images/crimeslist.png)
 
 ## (iii) MISSING PEOPLE
-![Missing](images\missinglist.png)
-![MissingList](images\mp.png)
+![Missing](/images/missinglist.png)
+![MissingList](/images/mp.png)
 
 ### (iv) LOGIN (User)
-![UserLogin](images\userlog.png)
-![UserReg](images\userreg.png)
-![UserRegForm](images\reg1.png)
-![SignPage](images\signinpage.png)
-![Access](images\loc.png)
+![UserLogin](/images/userlog.png)
+![UserReg](/images/userreg.png)
+![UserRegForm](/images/reg1.png)
+![SignPage](/images/signinpage.png)
+![Access](/images/loc.png)
 
