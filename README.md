@@ -52,5 +52,5 @@ The purpose of our application is to find the different crimes and people missin
 ### (v)	LOGIN (Admin) 
 
 ![AdminLog](/images/13.png)
-![ListofComp}(/images/14.png)
+![ListofComp](/images/14.png)
 
