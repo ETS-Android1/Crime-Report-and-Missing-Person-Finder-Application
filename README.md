@@ -19,6 +19,11 @@ The purpose of our application is to find the different crimes and people missin
 •	By giving the email and password the admin can register into the admin pages their admin can view all complaints, crimes, missing people options by pressing them individually each one consists of lists of views according to the options.
 •	And admin can update the status of the complaint which is verified or/ still /in progress.
 
+### Supported Devices:
+It can support OS ranging from Android 11.0(R) to Android 5.0(lollipop)
+## APK
+##### [Download our APK here!](https://github.com/Rohitreddz/Crime-Report-and-Missing-Person-Finder-Application/blob/master/CRMPF.apk)
+
 ## Our app screens
 ![Dashboard](/images/Dashboard.png)
 
@@ -59,10 +64,6 @@ The purpose of our application is to find the different crimes and people missin
 ![process](/images/18.png)
 ![processing](/images/19.png)
 ![listofmissingpersons](/images/20.png)
-
-## APK:
-### Supported Devices:
-It can support OS ranging from Android 11.0(R) to Android 5.0(lollipop)
 
 ## Sequence Information:
 
