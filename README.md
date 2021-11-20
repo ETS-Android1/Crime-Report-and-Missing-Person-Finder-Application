@@ -53,4 +53,7 @@ The purpose of our application is to find the different crimes and people missin
 
 ![AdminLog](/images/13.png)
 ![ListofComp](/images/14.png)
+![CrimeList](/images/15.png)
+![CrimeDet](/images/16.png)
+![Form](/images/17.png)
 
