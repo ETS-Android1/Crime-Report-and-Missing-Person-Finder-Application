@@ -42,4 +42,15 @@ The purpose of our application is to find the different crimes and people missin
 ![Action](/images/4.png)
 ![ActionUpd](/images/5.png)
 ![MissingPerson](/images/6.png)
+![ActionMP](/images/7.png)
+![MPDIS](/images/8.png)
+![CompSt](/images/9.png)
+![List}(/images/10.png)
+![ListMp](/images/11.png)
+![listofcrimes](images/12.png)
+
+### (v)	LOGIN (Admin) 
+
+![AdminLog](/images/13.png)
+![ListofComp}(/images/14.png)
 
