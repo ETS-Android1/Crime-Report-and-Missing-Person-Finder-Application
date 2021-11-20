@@ -25,45 +25,44 @@ It can support OS ranging from Android 11.0(R) to Android 5.0(lollipop)
 ##### [Download our APK here!](https://github.com/Rohitreddz/Crime-Report-and-Missing-Person-Finder-Application/blob/master/CRMPF.apk)
 
 ## Our app screens
-![Dashboard](/images/Dashboard.png)
+<img src="/images/Dashboard.png" width="200" height="400" />
 
 ## (ii)	CRIMES AROUND YOU 
-![Zipcode](/images/Zipcode.png)
-![CrimeList](/images/crimeslist.png)
+<img src="/images/Zipcode.png" width="200" height="400" />
+<img src="/images/crimeslist.png" width="200" height="400" />
 
 ## (iii) MISSING PEOPLE
-![Missing](/images/missinglist.png)
-![MissingList](/images/mp.png)
+<img src="/images/missinglist.png" width="200" height="400" />
+<img src="/images/mp.png" width="200" height="400" />
 
 ### (iv) LOGIN (User)
-![UserLogin](/images/userlog.png)
-![UserReg](/images/userreg.png)
-![UserRegForm](/images/reg1.png)
-![SignPage](/images/signinpage.png)
-![Access](/images/loc.png)
-![Comp](/images/1.png)
-![CompReg](/images/2.png)
-![Crime](/images/3.png)
-![Action](/images/4.png)
-![ActionUpd](/images/5.png)
-![MissingPerson](/images/6.png)
-![ActionMP](/images/7.png)
-![MPDIS](/images/8.png)
-![CompSt](/images/9.png)
-![List}(/images/10.png)
-![ListMp](/images/11.png)
-![listofcrimes](images/12.png)
+<img src="/images/userlog.png" width="200" height="400" />
+<img src="/images/userreg.png" width="200" height="400" />
+<img src="/images/reg1.png" width="200" height="400" />
+<img src="/images/signinpage.png" width="200" height="400" />
+<img src="/images/loc.png" width="200" height="400" />
+<img src="/images/1.png" width="200" height="400" />
+<img src="/images/2.png" width="200" height="400" />
+<img src="/images/3.png" width="200" height="400" />
+<img src="/images/4.png" width="200" height="400" />
+<img src="/images/5.png" width="200" height="400" />
+<img src="/images/6.png" width="200" height="400" />
+<img src="/images/7.png" width="200" height="400" />
+<img src="/images/8.png" width="200" height="400" />
+<img src="/images/9.png" width="200" height="400" />
+<img src="/images/10.png" width="200" height="400" />
+<img src="/images/11.png" width="200" height="400" />
+<img src="/images/12.png" width="200" height="400" />
 
 ### (v)	LOGIN (Admin) 
-
-![AdminLog](/images/13.png)
-![ListofComp](/images/14.png)
-![CrimeList](/images/15.png)
-![CrimeDet](/images/16.png)
-![Form](/images/17.png)
-![process](/images/18.png)
-![processing](/images/19.png)
-![listofmissingpersons](/images/20.png)
+<img src="/images/13.png" width="200" height="400" />
+<img src="/images/14.png" width="200" height="400" />
+<img src="/images/15.png" width="200" height="400" />
+<img src="/images/16.png" width="200" height="400" />
+<img src="/images/17.png" width="200" height="400" />
+<img src="/images/18.png" width="200" height="400" />
+<img src="/images/19.png" width="200" height="400" />
+<img src="/images/20.png" width="200" height="400" />
 
 ## Sequence Information:
 
