@@ -36,4 +36,10 @@ The purpose of our application is to find the different crimes and people missin
 ![UserRegForm](/images/reg1.png)
 ![SignPage](/images/signinpage.png)
 ![Access](/images/loc.png)
+![Comp](/images/1.png)
+![CompReg](/images/2.png)
+![Crime](/images/3.png)
+![Action](/images/4.png)
+![ActionUpd](/images/5.png)
+![MissingPerson](/images/6.png)
 
