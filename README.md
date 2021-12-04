@@ -18,6 +18,13 @@ The purpose of our application is to find the different crimes and people missin
 ### (v)	LOGIN (Admin) 
 •	By giving the email and password the admin can register into the admin pages their admin can view all complaints, crimes, missing people options by pressing them individually each one consists of lists of views according to the options.
 •	And admin can update the status of the complaint which is verified or/ still /in progress.
+###  Pre-Registered Credentials
+#### LOGIN(User)
+User name: madhubabu123@gmail.com, 
+password: madhu123
+#### LOGIN(Admin)
+User name: Admin, 
+password: Admin
 
 ### Supported Devices:
 It can support OS ranging from Android 11.0(R) to Android 5.0(lollipop)
